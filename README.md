@@ -4,8 +4,8 @@ I am Ashhar Shaikh, a Computer Engineering under-graduate at MU. I have an inher
 
 ## 📬 Contact me: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashharshaikh/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ashharr/)](https://instagram.com/kanna6501)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashharshaikh/)](https://www.linkedin.com/in/ashharshaikh/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ashharr/)](https://instagram.com/ashharr)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shaikh.ashhar6@gmail.com)](mailto:shaikh.ashhar6@gmail.com)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://www.github.com/ashharr)](https://www.github.com/ashharr)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/notashhar)](https://www.twitter.com/notashhar)
