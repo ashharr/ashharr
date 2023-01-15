@@ -1,6 +1,6 @@
 ## Hey there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Ashhar Shaikh, a Computer Engineering graduate from MU. I have an inherent interest and experience in the field of Data Science. I am self-motivated, hardworking and efficient python programmer seeking for an opportunity to work in a challenging environment to prove my coding skills and utilize my knowledge in the growth of the organization.
+I am Ashhar Shaikh, a Computer Engineering graduate from MU. Software engineer with two years of development experience.
 
 ## 📬 Contact me: 
 
