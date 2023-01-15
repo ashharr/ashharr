@@ -37,7 +37,7 @@ My Website: [ashharr.github.io](https://ashharr.github.io)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)  
 <br>
-![Ashhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashharr&show_icons=true&theme=radical)
+![Ashhar's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=ashharr&show_icons=true&theme=radical)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ashharr)
