@@ -10,7 +10,7 @@ I am Ashhar Shaikh, a Computer Engineering graduate from MU. Software engineer w
 [![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://www.github.com/ashharr)](https://www.github.com/ashharr)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/notashhar)](https://www.twitter.com/notashhar)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-black?style=flat-square&logo=github&logoColor=white&link=https://www.hackerrank.com/ashharr)](https://www.hackerrank.com/ashharr)  
-My Website: [ashharr.github.io](https://ashharr.github.io)
+My Portfolio Website: [ashharshaikh.netlify.app](https://ashharshaikh.netlify.app/)
 
 
 
