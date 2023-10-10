@@ -1,42 +1,62 @@
-## Hey there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+### Hey 👋<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm [Ashhar!](https://ashharshaikh.netlify.app/) 
+
+<a href="mailto:shaikh.ashhar6@gmail.com">
+  <img align="left" alt="Ashhar Shaikh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ashharshaikh/">
+  <img align="left" alt="Ashhar's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://leetcode.com/ashharr/">
+  <img align="left" alt="Ashhar's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://hackerrank.com/ashharr">
+  <img align="left" alt="Ashhar's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+
+
+<br />
+<br />
 
 I am Ashhar Shaikh, a Computer Engineering graduate and a Software engineer with two years of development experience. 
 
-## 📬 Contact me: 
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+**Talking about Personal Stuffs:**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashharshaikh/)](https://www.linkedin.com/in/ashharshaikh/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shaikh.ashhar6@gmail.com)](mailto:shaikh.ashhar6@gmail.com)
-[![LeetCode Badge](https://img.shields.io/badge/-Leetcode-EF7D00?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/ashharr/)](https://leetcode.com/ashharr/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://www.github.com/ashharr)](https://www.github.com/ashharr)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-black?style=flat-square&logo=github&logoColor=white&link=https://www.hackerrank.com/ashharr)](https://www.hackerrank.com/ashharr)  
-My Portfolio Website: [ashharshaikh.netlify.app](https://ashharshaikh.netlify.app/)
+- 👨🏽‍💻 I’m currently working on [ticktrack](https://github.com/ashharr/ticktrack);
+- 🌱 I’m currently learning Spring Boot and React; 
+- 👯 I’m looking to collaborate on [ticktrack](https://github.com/ashharr/ticktrack) 🤝;
+- 🤔 I’m also looking for help with Data Structures and Algorithms;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I won the India's largest hackathon SIH in 2019 for buidling [ML Chatbot](https://github.com/ashharr/chatbot-ml-SIH-2019)
+- 📫 How to reach me: shaikh.ashhar6@gmail.com;
+- 📝[Resume && Portfolio](https://ashharshaikh.netlify.app/)
 
+**Languages and Tools:**  
 
-
-
-## ⚡ Technologies
-
-![Java](https://img.shields.io/badge/-Java-00599C?style=flat-square&logo=Java&logoColor=red)
-![Python](https://img.shields.io/badge/Python-563D7C?style=flat-square&logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=red)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-563D7C?style=flat-square&logo=spring)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Postman](https://img.shields.io/badge/Postman-F37626?style=flat-square&logo&logo=Postman&logoColor=orange)
-![MongoDB](https://img.shields.io/badge/-MongoDB-8E2959?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-8E2959?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)  
-<br>
-
-![Ashhar's GitHub stats](https://readme-stats.clckblog.space/api?username=ashharr&show_icons=true&layout=compact&theme=transparent)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ashharr)
+
+![Ashhar's github stats](https://github-readme-stats.vercel.app/api?username=ashharr&show_icons=true&hide_border=true)
+
+⭐️ From [ashharr](https://github.com/ashharr)
+
+
+<a href="https://github.com/ashharr/ticktrack">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ashharr&repo=ticktrack" />
+</a>
+
+<a href="https://github.com/ashharr/chatbot-ml-SIH-2019">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ashharr&repo=chatbot-ml-SIH-2019" />
+</a>
+
