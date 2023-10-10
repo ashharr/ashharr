@@ -1,4 +1,4 @@
-### Hey <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px">, I'm [Ashhar!](https://ashharshaikh.netlify.app/) 
+## Hey, I'm [Ashhar!](https://ashharshaikh.netlify.app/)   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px">
 
 <a href="mailto:shaikh.ashhar6@gmail.com">
   <img align="left" alt="Ashhar Shaikh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
