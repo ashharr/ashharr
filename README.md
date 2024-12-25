@@ -25,7 +25,7 @@ I am Ashhar Shaikh, a Computer Engineering graduate and a Software engineer with
 
 - 👨🏽‍💻 I’m currently working on [xelement](https://github.com/ashharr/xelement) and [musclemap](https://github.com/ashharr/musclemap);
 - 🌱 I’m currently learning Spring Boot and React; 
-- 👯 I’m looking to collaborate on [ticktrack](https://github.com/ashharr/ticktrack) 🤝;
+- 👯 I’m looking to collaborate on [xelement](https://github.com/ashharr/xelement)🤝;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun Fact: I won India's largest hackathon SIH in 2019 for building [ML Chatbot](https://github.com/ashharr/chatbot-ml-SIH-2019)
 - 📫 How to reach me: shaikh.ashhar6@gmail.com;
