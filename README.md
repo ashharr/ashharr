@@ -1,61 +1,85 @@
-## Hey, I'm [Ashhar!](https://ashharshaikh.netlify.app/)   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px">
-
-<a href="mailto:shaikh.ashhar6@gmail.com">
-  <img align="left" alt="Ashhar Shaikh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ashharshaikh/">
-  <img align="left" alt="Ashhar's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://leetcode.com/ashharr/">
-  <img align="left" alt="Ashhar's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://hackerrank.com/ashharr">
-  <img align="left" alt="Ashhar's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
+<div align="center">
+  <h1>Hey there, I'm Ashhar 👋</h1>
+</div>
 
 
-<br />
-<br />
+### 👋 About Me
 
-I am Ashhar Shaikh, a Computer Engineering graduate and a Software engineer with two years of development experience. 
+Senior Software Engineer. I build robust Java/Spring Boot backends, optimizing them like it's a byte-saving contest from the 80s. Memory leaks are so last century!
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
-**Talking about Personal Stuffs:**
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashharshaikh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://github.com/ashharr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;
+  <a href="https://ashharshaikh.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23D14836.svg?&style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="mailto:shaikh.ashhar6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/ashharr/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
 
-- 👨🏽‍💻 I’m currently working on [xelement](https://github.com/ashharr/xelement) and [musclemap](https://github.com/ashharr/musclemap);
-- 🌱 I’m currently learning Spring Boot and React; 
-- 👯 I’m looking to collaborate on [musclemap](https://github.com/ashharr/musclemap)🤝;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun Fact: I won India's largest hackathon SIH in 2019 for building [ML Chatbot](https://github.com/ashharr/chatbot-ml-SIH-2019)
-- 📫 How to reach me: shaikh.ashhar6@gmail.com;
-- 📝[Resume && Portfolio](https://ashharshaikh.netlify.app/)
+---
 
-**Languages and Tools:**  
+### 🛠 Tech Stack
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+| Category | Technologies |
+| :------- | :----------- |
+| **Backend** | Java (Core, 8, 17), Spring Boot, Spring Framework, Microservices, JPA |
+| **Databases** | MySQL |
+| **Frontend** | Reactjs, Nodejs, HTML, CSS, JavaScript |
+| **Tools & DevOps** | Docker, AWS, Maven, Git, Gitlab, JIRA, Postman, Eclipse, IntelliJ IDEA |
+| **Testing** | JUnit, Mockito, Test-Driven Development (TDD) |
+| **Methodologies** | Agile |
 
+---
 
+### 🧠 Skills
 
-![Ashhar's github stats](https://github-readme-stats.vercel.app/api?username=ashharr&show_icons=true&hide_border=true)
+-   **Languages:** Java, Python, SQL, HTML, CSS, JavaScript
+-   **Frameworks & Libraries:** Spring Boot, Spring Framework, Reactjs, Nodejs, JUnit, Mockito
+-   **Databases:** MySQL
+-   **Tools:** Git, Gitlab, Maven, JIRA, Postman, Eclipse, IntelliJ IDEA
+-   **Concepts:** Microservices, JPA, RESTful APIs, Data Structures and Algorithms, Test-Driven Development (TDD), Agile Methodology
 
-⭐️ From [ashharr](https://github.com/ashharr)
+---
 
+### 📈 GitHub Stats
 
-<a href="https://github.com/ashharr/ticktrack">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ashharr&repo=ticktrack" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashharr&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="Ashhar's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashharr&theme=tokyonight&hide_border=true" alt="Ashhar's GitHub Streak" />
+</div>
 
-<a href="https://github.com/ashharr/chatbot-ml-SIH-2019">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ashharr&repo=chatbot-ml-SIH-2019" />
-</a>
+---
+
+### 🗓 Recent Activity
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/ashharr/ashharr/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</div>
+*Note: This is an example, you might need to generate the snake animation from https://github.com/platane/snk*
+
+---
+
+### 📂 Featured Projects
+
+| Project Name | Description | Technologies | Link |
+| :----------- | :---------- | :----------- | :--- |
+| **Ticktrack** | A full-stack minimal todo tracker for efficient task management. | Spring Boot, MySQL, Reactjs | [GitHub](https://github.com/ashharr/ticktrack) |
+| **Polar** | Contributed to an open-source project facilitating funding for other open-source initiatives, resolving a critical dark mode bug. | Open Source, Frontend | [GitHub](https://github.com/polarsource/polar) |
+| **ML Chatbot (SIH 2019)** | Led a team to engineer a machine learning chatbot for the mutual fund domain, showcased at SIH 2019. | Python, Flask, MySQL, Dialogflow | [GitHub](https://github.com/ashharr/chatbot-ml-SIH-2019) |
+
+---
+
+### 🏅 Certifications
+
+-   **VMware Spring Certified Professional** (August 2024)
+-   **3X Microsoft Certified:** AZ-900, AI-900, AZ-204 Microsoft Azure Developer (December 2021 - June 2022)
 
