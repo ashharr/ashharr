@@ -53,8 +53,6 @@ Senior Software Engineer. I build robust Java/Spring Boot backends, optimizing t
 <div align="center">
     <img src="https://raw.githubusercontent.com/ashharr/ashharr/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
-*Note: This is an example, you might need to generate the snake animation from https://github.com/platane/snk*
-
 ---
 
 ### 📂 Featured Projects
