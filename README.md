@@ -4,7 +4,7 @@
 
 ### 🙋 About Me
 
-Senior Software Engineer.I build robust Java/Spring Boot backends, optimizing them like it's a byte-saving contest from the 80s. <div align="center">Memory leaks are so last century!</div>
+Senior Software Engineer. I build robust Java/Spring Boot backends, optimizing them like it's a byte-saving contest from the 80s. <div align="center">Memory leaks are so last century!</div>
 
 
 ---
