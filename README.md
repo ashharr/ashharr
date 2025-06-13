@@ -3,7 +3,7 @@
 </div>
 
 
-### 👋 About Me
+### 🙋 About Me
 
 Senior Software Engineer. I build robust Java/Spring Boot backends, optimizing them like it's a byte-saving contest from the 80s. Memory leaks are so last century!
 
@@ -36,16 +36,6 @@ Senior Software Engineer. I build robust Java/Spring Boot backends, optimizing t
 | **Frontend** | Reactjs, Nodejs, HTML, CSS, JavaScript |
 | **Tools & DevOps** | Docker, AWS, Maven, Git, Gitlab, JIRA, Postman, Eclipse, IntelliJ IDEA |
 | **Testing** | JUnit, Mockito, Test-Driven Development (TDD) |
-
----
-
-### 🧠 Tech 
-
--   **Languages:** Java, Python, SQL, HTML, CSS, JavaScript
--   **Frameworks & Libraries:** Spring Boot, Spring Framework, Reactjs, Nodejs, JUnit, Mockito
--   **Databases:** MySQL
--   **Tools:** Git, Gitlab, Maven, JIRA, Postman, Eclipse, IntelliJ IDEA
--   **Concepts:** Microservices, JPA, RESTful APIs, Data Structures and Algorithms, Test-Driven Development (TDD), Agile Methodology
 
 ---
 
