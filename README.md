@@ -31,16 +31,15 @@ Senior Software Engineer. I build robust Java/Spring Boot backends, optimizing t
 
 | Category | Technologies |
 | :------- | :----------- |
-| **Backend** | Java (Core, 8, 17), Spring Boot, Spring Framework, Microservices, JPA |
-| **Databases** | MySQL |
+| **Backend** | Java (Core, 8, 17,21), Spring Boot, Spring Framework, Microservices, JPA |
+| **Databases** | MySQL, MongoDB, PostgreSQL |
 | **Frontend** | Reactjs, Nodejs, HTML, CSS, JavaScript |
 | **Tools & DevOps** | Docker, AWS, Maven, Git, Gitlab, JIRA, Postman, Eclipse, IntelliJ IDEA |
 | **Testing** | JUnit, Mockito, Test-Driven Development (TDD) |
-| **Methodologies** | Agile |
 
 ---
 
-### 🧠 Skills
+### 🧠 Tech 
 
 -   **Languages:** Java, Python, SQL, HTML, CSS, JavaScript
 -   **Frameworks & Libraries:** Spring Boot, Spring Framework, Reactjs, Nodejs, JUnit, Mockito
