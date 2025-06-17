@@ -57,6 +57,7 @@ Senior Software Engineer. I build robust Java/Spring Boot backends, optimizing t
 <div align="center">
     <img src="https://raw.githubusercontent.com/ashharr/ashharr/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
+
 ---
 
 ### 📂 Featured Projects
@@ -67,10 +68,4 @@ Senior Software Engineer. I build robust Java/Spring Boot backends, optimizing t
 | **Polar** | Contributed to an open-source project facilitating funding for other open-source initiatives, resolving a critical dark mode bug. | Open Source, Frontend | [GitHub](https://github.com/polarsource/polar) |
 | **ML Chatbot (SIH 2019)** | Developed a machine learning chatbot for the mutual fund domain, showcased at SIH 2019. | Python, Flask, MySQL, Dialogflow | [GitHub](https://github.com/ashharr/chatbot-ml-SIH-2019) |
 
----
-
-### 🏅 Certifications
-
--   **VMware Spring Certified Professional** (August 2024)
--   **3X Microsoft Certified:** AZ-900, AI-900, AZ-204 Microsoft Azure Developer (December 2021 - June 2022)
 
