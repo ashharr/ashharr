@@ -45,10 +45,9 @@ Senior Software Engineer. I build robust Java/Spring Boot backends, optimizing t
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashharr&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="Ashhar's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashharr&theme=tokyonight&hide_border=true" alt="Ashhar's GitHub Streak" />
-</div>
+[![Your GitHub stats](https://vercel.app)](https://github.com/ashharr/github-readme-stats)
+[![Top Langs](https://vercel.app)](https://github.com/ashharr/github-readme-stats)
+
 
 ---
 
